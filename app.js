@@ -28,13 +28,11 @@ menu_item.forEach((item) => {
 	});
 });
 
-email.addEventListener("click", () =>{
-})
 
 linkedin.addEventListener("click", () =>{
 	window.open("https://www.linkedin.com/in/alexandre-minoru/", '_blank');
 })
 
 dowload.addEventListener("click", () =>{
-	console.log("deu");
+	dowload("Currículo_Alexandre","./Curriculum/Currículo_Alexandre.pdf")
 })
