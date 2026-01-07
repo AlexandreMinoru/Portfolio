@@ -30,9 +30,9 @@ menu_item.forEach((item) => {
 
 
 linkedin.addEventListener("click", () =>{
-	window.open("https://www.linkedin.com/in/alexandre-minoru/", '_blank');
+	window.open("https://www.linkedin.com/in/alexandreminoru/", '_blank');
 })
 
 dowload.addEventListener("click", () =>{
-	dowload("Currículo_Alexandre","./Curriculum/Currículo_Alexandre.pdf")
+	dowload("Currículo_Alexandre","./Curriculum/Curriculum - Alexandre Minoru Zanoni Yassaka.pdf")
 })
